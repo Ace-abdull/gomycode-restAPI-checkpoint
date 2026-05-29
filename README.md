@@ -106,3 +106,7 @@ package.json
 ## Notes
 
 Each route uses Mongoose methods to manipulate data and returns the result in the response.
+
+## Author
+
+Abdullahi Sudeis
